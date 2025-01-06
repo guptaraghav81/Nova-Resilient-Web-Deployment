@@ -2,7 +2,15 @@
 
 <p id="description">"Nova ~ Resilient Web Deployment" suggests a solution that is robust stands out and shines with reliability and innovation.A high-availability and fault-tolerant web deployment solution on AWS. This project demonstrates the use of multiple EC2 instances load balancing and HTTPS encryption for secure and scalable web hosting.</p>
 
-<p align="center"><img src="![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&amp;logoColor=white)" alt="shields"><img src="![HTTPS](https://img.shields.io/badge/HTTPS-Secured-green?logo=letsencrypt&amp;logoColor=white)" alt="shields"><img src="![Load Balancer](https://img.shields.io/badge/Load%20Balancer-Enabled-blue)" alt="shields"><img src="![License](https://img.shields.io/badge/License-MIT-brightgreen)" alt="shields"><img src="![Status](https://img.shields.io/badge/Status-Completed-success)" alt="shields"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&amp;logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/HTTPS-Secured-green?logo=letsencrypt&amp;logoColor=white" alt="HTTPS">
+  <img src="https://img.shields.io/badge/Load%20Balancer-Enabled-blue" alt="Load Balancer">
+
+  <img src="https://img.shields.io/badge/Certificate-Amazon Certificate Manager-orange" alt="Certificate">
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
+    <img src="https://img.shields.io/badge/DNS-Route%2053-blue?logo=amazonaws&logoColor=white" alt="DNS Route 53">
+</p>
 
 <h2>🚀 Demo</h2>
 
@@ -28,7 +36,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 git clone https://github.com/guptaraghav81/codingAndcoffee.git
-```
+
 
 <p>2. Set up EC2 instances: Launch two EC2 instances within your AWS account. Ensure they are in your custom VPC for better network isolation and security.</p>
 
@@ -57,7 +65,7 @@ Thank you for your interest in contributing to Nova: Resilient Web Deployment! W
 
   
   
-<h2>💻 Built with</h2>
+<h2>💻 Built with:</h2>
 
 Technologies used in the project:
 
