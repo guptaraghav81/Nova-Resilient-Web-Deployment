@@ -18,7 +18,24 @@ Experience the live version of the project here: https://raghav.cloud
 
 <h2>Architecture:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+<!-- First Image: Full Size -->
+![Screenshot 1 - Project Demo](./assets/img1.jpg)
+
+<!-- Second Row: Two Smaller Images side by side with equal space -->
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 10px;">
+  <img src="./assets/img2.jpg" alt="Screenshot 2" width="48%" />
+  <img src="./assets/img3.webp" alt="Screenshot 3" width="48%" />
+</div>
+
+<!-- Third Row: Two Smaller Images side by side with equal space -->
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 10px;">
+  <img src="./assets/img4.jpg" alt="Screenshot 4" width="48%" />
+  <img src="./assets/img5.jpg" alt="Screenshot 5" width="48%" />
+</div>
+
+
+
+
 
   
   
