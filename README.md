@@ -92,6 +92,16 @@ Technologies used in the project:
 *   Route 53 (DNS): For domain name resolution.
 *   Amazon VPC: Your custom Virtual Private Cloud for network isolation security and connectivity.
 
+
+
+<h2> &#127909; A Quick Glimpse of the Project :</h2>
+Click on the image below to watch the project demo on YouTube:
+
+Click on the image below to watch the project demo:
+
+[![Watch Project Demo](./assets/img5.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
 <h2>💖Like my work?</h2>
 
 If you encounter any issues or need assistance with this project please feel free to reach out using the following method:  
