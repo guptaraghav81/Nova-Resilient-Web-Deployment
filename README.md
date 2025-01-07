@@ -95,11 +95,14 @@ Technologies used in the project:
 
 
 <h2> &#127909; A Quick Glimpse of the Project :</h2>
-Click on the image below to watch the project demo on YouTube:
+Click on the image below to watch the project demo on YouTube: <br><br>
 
-Click on the image below to watch the project demo:
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="./assets/Screenshot%20(437).png" alt="Project Demo" width="300"/>
+  </a>
+</div>
 
-[![Watch Project Demo](./assets/img5.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 
 <h2>💖Like my work?</h2>
